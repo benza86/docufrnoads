@@ -111,38 +111,7 @@
    
   ]
   }
-  ,
-	  {
-    "title":"Trop de Pubs??",
-    "drawable":"",
-    "submenu":"autres",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"",
-        "provider":"custom",
-        "arguments":[
-          "com.knoozapps.myapp.docufr.SettingsFragment", "fragment"
-        ]
-      }
-    ]
-  }
-	,
-  {
-    "title":"DocuFR NoADS bientôt  disponible",
-    "drawable":"",
-    "submenu":"autres",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"",
-        "provider":"custom",
-        "arguments":[
-          "com.knoozapps.myapp.docufr.SettingsFragment", "fragment"
-        ]
-      }
-    ]
-  }
+  
 	,
   {
     "title":"A propos",
