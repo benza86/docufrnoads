@@ -15,11 +15,12 @@
 
         ]
      },
-	     {
-        "title":"Docu Chaque jour",
+
+	    	 {
+        "title":"Chasseurs d'appart",
         "provider":"youtube",
         "arguments":[
-          "UCJ9tHJbCa8ZoMbapfJLy0ZQ",
+          "UCpzfGUMfZgwX37tXQXJYI_Q",
           "channel"
 
         ]
@@ -33,11 +34,38 @@
 
         ]
      },
-	        {
+	      {
         "title":"TCF",
         "provider":"youtube",
         "arguments":[
           "UC_4WpPcSfpxsSqA6hNpqJbg",
+          "channel"
+
+        ]
+      },
+	        {
+        "title":"Investigations et Enquêtes",
+        "provider":"youtube",
+        "arguments":[
+          "UC50uCdUubc04xXZz7bqv5ng",
+          "channel"
+
+        ]
+      },
+	         {
+        "title":"66 minutes",
+        "provider":"youtube",
+        "arguments":[
+          "PL5sRezSGmq7UFu19-C7WTQEwsuCe7KLAK",
+          "playlist"
+
+        ]
+      },
+	            {
+        "title":"REPORTAGE CHOC",
+        "provider":"youtube",
+        "arguments":[
+          "UCZf6kwthqT_0PvC2B7rZ9Qg",
           "channel"
 
         ]
@@ -51,6 +79,15 @@
 
         ]
       },
+	    	     {
+        "title":"Docu Chaque jour",
+        "provider":"youtube",
+        "arguments":[
+          "UCJ9tHJbCa8ZoMbapfJLy0ZQ",
+          "channel"
+
+        ]
+     },
       {
         "title":"Docu FR",
         "provider":"youtube",
