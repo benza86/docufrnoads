@@ -6,6 +6,15 @@
     "iap":false,
     "tabs":[
 
+	     {
+        "title":"Doc du jour",
+        "provider":"youtube",
+        "arguments":[
+          "PLpuTkbiVtmpgbDcjECZy3vydSP5wLWAcD",
+          "playlist"
+
+        ]
+     },
 	 {
         "title":"Capital- EnQ-Exc",
         "provider":"youtube",
