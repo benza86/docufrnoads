@@ -79,6 +79,15 @@
 
         ]
       },
+	     {
+        "title":"C'est pas sorcier",
+        "provider":"youtube",
+        "arguments":[
+          "UCENv8pH4LkzvuSV_qHIcslg",
+          "channel"
+
+        ]
+      },
 	            {
         "title":"REPORTAGE CHOC",
         "provider":"youtube",
