@@ -70,6 +70,15 @@
 
         ]
       },
+	          {
+        "title":"Docu & Repo",
+        "provider":"youtube",
+        "arguments":[
+          "UCWg5D6AYw9hYcir4pNcQvYw",
+          "channel"
+
+        ]
+      },
 	            {
         "title":"REPORTAGE CHOC",
         "provider":"youtube",
