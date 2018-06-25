@@ -97,6 +97,15 @@
 
         ]
       },
+	       {
+        "title":"APOCALYPSE, la 2e Guerre Mondiale",
+        "provider":"youtube",
+        "arguments":[
+          "PLtWCxQD6aEVdVGqTdadEQCjvXH0GMIxdn",
+          "playlist"
+
+        ]
+     },
 	    	     {
         "title":"Docu Chaque jour",
         "provider":"youtube",
