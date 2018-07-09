@@ -220,6 +220,73 @@
    
   ]
   }
+	,
+	 {
+     "title":"YOUTUBEURS",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+ {
+        "title":"SQUEEZIE",
+        "provider":"youtube",
+        "arguments":[
+          "UCWeg2Pkate69NFdBeuRFTAw",
+          "channel"
+
+        ]
+     },
+	 {
+        "title":"NORMAN FAIT DES VIDÉOS",
+        "provider":"youtube",
+        "arguments":[
+          "UCww2zZWg4Cf5xcRKG-ThmXQ",
+          "channel"
+
+        ]
+     },
+	     {
+        "title":"Cyprien",
+        "provider":"youtube",
+        "arguments":[
+          "UCyWqModMQlbIo8274Wh_ZsQ",
+          "channel"
+
+        ]
+     }
+	    ,
+	     {
+        "title":"Mcfly & Carlito",
+        "provider":"youtube",
+        "arguments":[
+          "UCDPK_MTu3uTUFJXRVcTJcEw",
+          "channel"
+
+        ]
+     }
+	    	    ,
+	     {
+        "title":"Laink et Terracid",
+        "provider":"youtube",
+        "arguments":[
+          "UCYGjxo5ifuhnmvhPvCc3DJQ",
+          "channel"
+
+        ]
+     }
+	     	    ,
+	     {
+        "title":"Natoo",
+        "provider":"youtube",
+        "arguments":[
+          "UCtihF1ZtlYVzoaj_bKLQZ-Q",
+          "channel"
+
+        ]
+     }
+   
+  ]
+  }
   ,
   {
     "title":"A propos",
