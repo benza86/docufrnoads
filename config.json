@@ -70,6 +70,24 @@
 
         ]
       },
+	            {
+        "title":"REPORTERS",
+        "provider":"youtube",
+        "arguments":[
+          "PLCnUnV3yCIYsMFDw8PfyIY_dgnbDtf1gm",
+          "playlist"
+
+        ]
+      },
+	           {
+        "title":"FOCUS",
+        "provider":"youtube",
+        "arguments":[
+          "PLCnUnV3yCIYsMFDw8PfyIY_dgnbDtf1gm",
+          "playlist"
+
+        ]
+      },
 	          {
         "title":"Docu & Repo",
         "provider":"youtube",
