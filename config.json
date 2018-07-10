@@ -70,6 +70,15 @@
 
         ]
       },
+	      {
+        "title":"Envoyé spécial",
+        "provider":"youtube",
+        "arguments":[
+          "UCCauEjHzPXxGer8af3u4x5g",
+          "channel"
+
+        ]
+      },
 	        {
         "title":"Investigations et Enquêtes",
         "provider":"youtube",
