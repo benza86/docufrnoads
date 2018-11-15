@@ -7,6 +7,15 @@
     "tabs":[
 
 	     {
+        "title":"Documentaires",
+        "provider":"youtube",
+        "arguments":[
+          "UCJ9tHJbCa8ZoMbapfJLy0ZQ",
+          "channel"
+
+        ]
+     },
+	     {
         "title":"Doc du jour",
         "provider":"youtube",
         "arguments":[
