@@ -5,7 +5,15 @@
     "submenu":"",
     "iap":false,
     "tabs":[
+      {
+        "title":"Docu 2018",
+        "provider":"youtube",
+        "arguments":[
+          "UCH7qt-Qvf0oVyqXBAMb0aPw",
+          "channel"
 
+        ]
+     },
 	     {
         "title":"Documentaires",
         "provider":"youtube",
