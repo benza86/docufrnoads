@@ -5,8 +5,19 @@
     "submenu":"",
     "iap":false,
     "tabs":[
-      {
-        "title":"Docu 2018",
+      
+	     {
+        "title":"Docu 2019",
+        "provider":"youtube",
+        "arguments":[
+          "UCF9SDe7qDrLkWUBQMvYV12A",
+          "channel"
+
+        ]
+     },
+	    
+	    {
+        "title":"Docu Fr",
         "provider":"youtube",
         "arguments":[
           "UCH7qt-Qvf0oVyqXBAMb0aPw",
