@@ -71,16 +71,7 @@
 
         ]
      },
- {
-        "title":"Zone Intedite",
-        "provider":"youtube",
-        "arguments":[
-          "UCf4cYs4HpO_OOnpaVe8Xflg",
-          "channel"
-
-        ]
-     },
-	      {
+  {
         "title":"TCF",
         "provider":"youtube",
         "arguments":[
@@ -89,15 +80,7 @@
 
         ]
       },
-	     {
-        "title":"Enquête exclusive",
-        "provider":"youtube",
-        "arguments":[
-          "PLZcIHWq9jlNmBdcPMds6HiKA6ZlAUvEAy",
-          "playlist"
 
-        ]
-      },
 	       {
         "title":"bref.",
         "provider":"youtube",
@@ -216,16 +199,6 @@
 
         ]
       },
-	  	  	   {
-        "title":"Docus",
-        "provider":"youtube",
-        "arguments":[
-          "UCj0Fef2NUqFw6Hx5rLwDxyw",
-          "channel"
-
-        ]
-      }
-	  ,
 	  	  	   {
         "title":"lezzapeur",
         "provider":"youtube",
