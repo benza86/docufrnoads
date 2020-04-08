@@ -6,6 +6,24 @@
     "iap":false,
     "tabs":[
       
+	        {
+        "title":"Docu 2020",
+        "provider":"youtube",
+        "arguments":[
+          "UCFxxSdfynlS332t3_H0ISHA",
+          "channel"
+
+        ]
+     },
+	            {
+        "title":"Docu NEW",
+        "provider":"youtube",
+        "arguments":[
+          "UCZDvl2fr4U_eB_tOC-qvIgw",
+          "channel"
+
+        ]
+     },
 	     {
         "title":"Docu 2019",
         "provider":"youtube",
